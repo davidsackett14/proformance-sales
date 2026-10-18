@@ -1,0 +1,9 @@
+{
+  "name": "Proformance Sales",
+  "short_name": "Proformance",
+  "start_url": "./sales.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
